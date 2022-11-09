@@ -14,7 +14,7 @@ li {
   line-height: 1;
   list-style: none;
 }
-#footer {
+.footer {
   position: relative;
   bottom: 0;
   width: 100%;
